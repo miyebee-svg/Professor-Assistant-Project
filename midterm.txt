@@ -1,0 +1,21 @@
+Question: The common name for the crime of stealing passwords is__?
+Answer: Spoofing
+
+Question: Scientific Name of Computer?
+Answer: Sillico sapiens
+
+Question: What is the name of the display feature that highlights are of the screen which requires operator attention?
+Answer: Reverse Video
+
+Question: Help Menu is available at which button?
+Answer: Start
+
+Question: Name of 1st electronic computer?
+Answer: ENIAC
+
+Question: The amount of vertical space between lines of text in a document is called__?
+Answer: Line Spacing
+
+Question: What do we use to change the appearance and positioning of text document in MS Word?
+Answer: Formatting
+
