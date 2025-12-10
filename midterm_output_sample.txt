@@ -1,0 +1,11 @@
+Welcome to professor assistant version 1.0.
+Please Enter Your Name: Ibrahim Musa
+Hello Professor Ibrahim Musa, I am here to help you create exams from a question bank.
+Do you want me to help you create an exam (Yes to proceed | No to quit the program)? Y
+Please Enter the Path to the Question Bank: question_bank.txt
+Yes, indeed the path you provided includes questions and answers.
+How many question-answer pairs do you want to include in your exam? 7
+Where do you want to save your exam? midterm.txt
+Congratulations Professor Ibrahim Musa. Your exam is created and saved in midterm.txt.
+Do you want me to help you create an exam (Yes to proceed | No to quit the program)? No
+Thank you professor Ibrahim Musa. Have a good day!
